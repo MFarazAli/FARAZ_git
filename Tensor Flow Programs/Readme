@@ -1,1 +1,3 @@
-The contains Facial detection and recognition of obama in a data dets of hundreds of images
+1. The Face_Ali_Version2.ipynb contains Facial detection and recognition of obama in a data set of hundreds of images
+
+2. The Colorado_Parks_and_Wildlife.ipynb contains 62 Classes of anime detection and recognit5ion using Tensor Flow, and Comparison of different models ssd_inception_v2_coco, faster_rcnn_resnet0_coco, ssd_mobilenet_v1_coco and ssd_mobilenet_v2_coco. 
